@@ -143,8 +143,8 @@ kubectl apply -k overlays/production/
 
 Once deployed, you can access the application at:
 
-- HTTP: `http://easyshop.example.com`
-- HTTPS: `https://easyshop.example.com`
+- HTTP: `http://shop.example.com`
+- HTTPS: `https://shop.example.com`
 
 ## Troubleshooting
 
