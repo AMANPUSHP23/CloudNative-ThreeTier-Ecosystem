@@ -54,7 +54,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://www.linkedin.com/in/amanpushp"
+                  href="https://www.linkedin.com/in/aman-pushp-b1a501223/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

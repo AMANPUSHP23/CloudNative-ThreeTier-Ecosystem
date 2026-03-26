@@ -8,7 +8,7 @@ import { verifyToken } from "@/lib/auth/utils";
 export const metadata: Metadata = {
   title: "Profile",
   description:
-    "EasyShop is the user-friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "CloudNative-ThreeTier-Ecosystem is a production-ready Next.js e-commerce solution. View and manage your profile settings.",
 };
 
 const ProfilePage = async () => {
