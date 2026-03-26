@@ -8,6 +8,8 @@
 
 **CloudNative-ThreeTier-Ecosystem** is a production-ready, highly-available e-commerce platform designed with a strict **Three-Tier Architecture**. This project serves as an end-to-end engineering showcase, integrating a high-performance Next.js 14 frontend with a Cloud-Native DevOps pipeline utilizing AWS EKS, Terraform, Ansible, and GitOps workflows via ArgoCD.
 
+> Live Demo: [https://cloudnative-threetier-ecosystem.netlify.app/](https://cloudnative-threetier-ecosystem.netlify.app/)
+
 > ![Nexus-Scale-Commerce](./docs/assets/01-easyshop-ui.png)
 > ![Nexus-Scale-Commerce](./docs/assets/02-easyshop-ui.png)
 
