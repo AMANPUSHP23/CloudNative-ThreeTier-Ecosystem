@@ -1,0 +1,15 @@
+kind: ClusterIssuer
+apiVersion: cert-manager.io/v1
+
+metadata:
+  name: easyshop-issuer
+spec:
+  acme:
+    server: https://acme-v02.api.letsencrypt.org/directory
+    email: abdullahabrar4843@gmail.com
+    privateKeySecretRef:
+      name: easyshop-issuer-key
+    solvers:
+    - http01:
+        ingress:
+          class: nginx
