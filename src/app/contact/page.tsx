@@ -25,7 +25,7 @@ const ContactPage = () => {
 
           <div className="mt-4">
             <h4 className="font-semibold mb-1">Phone</h4>
-            <p className="text-sm text-muted-foreground">+91 9400344657</p>
+            <p className="text-sm text-muted-foreground">+91 9178913222</p>
           </div>
 
           <div className="mt-4">
