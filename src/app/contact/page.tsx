@@ -7,7 +7,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Contact",
   description:
-    "EasyShop is the user-friendly Next.js eCommerce template perfect for launching your online store. With its clean design and customizable options, EasyShop makes selling online a breeze. Start building your dream store today and boost your online presence effortlessly!",
+    "CloudNative-ThreeTier-Ecosystem is a production-ready Next.js e-commerce solution. Explore our high-performance storefront and robust cloud-native architecture.",
 };
 
 const ContactPage = () => {
@@ -30,7 +30,7 @@ const ContactPage = () => {
 
           <div className="mt-4">
             <h4 className="font-semibold mb-1">Email Address</h4>
-            <p className="text-sm text-muted-foreground">iemafzalhassan@gmail.com</p>
+            <p className="text-sm text-muted-foreground">amanpushp2001@gmail.com</p>
           </div>
           <div className="mt-4">
             <h3 className="font-semibold">Follow Me</h3>
@@ -41,7 +41,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://github.com/iemafzalhassan"
+                  href="https://github.com/AMANPUSHP23"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -54,7 +54,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://www.linkedin.com/in/iemafzalhassan"
+                  href="https://www.linkedin.com/in/amanpushp"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -67,7 +67,7 @@ const ContactPage = () => {
                 asChild
               >
                 <a
-                  href="https://twitter.com/iemafzalhassan"
+                  href="https://twitter.com/amanpushp"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

@@ -164,7 +164,7 @@ const SignupForm = ({ setIsOpen }: SignupFormProps) => {
           disabled={isLoading}
           className="w-full mt-3 h-12 gap-3"
         >
-          <span>Login</span>
+          <span>Sign up</span>
           {isLoading && (
             <span className="text-base animate-spin">
               <LuLoader />

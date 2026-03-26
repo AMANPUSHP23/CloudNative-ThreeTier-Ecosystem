@@ -35,11 +35,11 @@ const Footer = () => {
             <div className="dark:text-gray-400">
               <p className="mt-6">Bihar, India</p>
 
-              <a href="mailto:iemafzalhassan@gmail.com" className="block mt-3">
-                iemafzalhassan@gmail.com
+              <a href="mailto:amanpushp2001@gmail.com" className="block mt-3">
+                amanpushp2001@gmail.com
               </a>
-              <a href="tel:+91 9400344657" className="block mt-1">
-                +91 9400344657
+              <a href="tel:+91XXXXXXXXXX" className="block mt-1">
+                +91XXXXXXXXXX
               </a>
 
               <div className="flex flex-wrap gap-3 items-center mt-4">
@@ -49,7 +49,7 @@ const Footer = () => {
                   asChild
                 >
                   <a
-                    href="https://github.com/iemafzalhassan"
+                    href="https://github.com/AMANPUSHP23"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -62,7 +62,7 @@ const Footer = () => {
                   asChild
                 >
                   <a
-                    href="https://twitter.com/iemafzalhassan"
+                    href="https://twitter.com/amanpushp"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -75,7 +75,7 @@ const Footer = () => {
                   asChild
                 >
                   <a
-                    href="https://www.linkedin.com/in/iemafzalhassan"
+                    href="https://www.linkedin.com/in/amanpushp"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -210,12 +210,12 @@ const Footer = () => {
             </span>{" "}
             by{" "}
             <a
-              href="https://iemafzalhassan.tech"
+              href="https://github.com/AMANPUSHP23"
               target="_blank"
               rel="noopener noreferrer"
               className="font-medium hover:text-primary transition-all duration-300 hover:underline decoration-primary decoration-2 underline-offset-4"
             >
-              Md. Afzal Hassan Ehsani
+              Aman Pushp
             </a>
           </div>
           

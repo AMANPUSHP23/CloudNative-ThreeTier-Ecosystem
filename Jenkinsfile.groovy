@@ -5,10 +5,10 @@ pipeline {
     
     environment {
         SONAR_HOME = tool "sonarQubeScanner"
-        DOCKER_IMAGE = 'amanpushp23/nexus-commerce' 
-        DOCKER_MIGRATION_IMAGE = 'amanpushp23/nexus-commerce-migration' 
+        DOCKER_IMAGE = 'amanpushp23/cloudnative-ecosystem' 
+        DOCKER_MIGRATION_IMAGE = 'amanpushp23/cloudnative-migration' 
         DOCKER_CREDENTIALS = "dockerHubCredentials"
-        EMAIL_ADDRESS = "YOUR_EMAIL@example.com"
+        EMAIL_ADDRESS = "amanpushp2001@gmail.com"
     }
     
     stages {
